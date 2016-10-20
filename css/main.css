@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  border:2px solid #595652
+  border:2px solid #595652;
   box-sizing: border-box;
   background-color: #79756f;
 }
