@@ -1,6 +1,7 @@
-*{
+* {
   box-sizing: inherit;
 }
+
 html {
   background-color: #dbd6cf;
   box-sizing: border-box;
@@ -32,7 +33,7 @@ h1 {
   padding: .6em;
 }
 
-.nav li{
+.nav li {
   display: inline-block;
 }
 
