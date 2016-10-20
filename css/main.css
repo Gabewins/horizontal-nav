@@ -33,7 +33,7 @@ h1 {
 }
 
 .nav li{
-  display: inline-blocks;
+  display: inline-block;
 }
 
 .nav a {
